@@ -1,0 +1,6 @@
+[submodule "Projects/Projects/WorkoutTracker/odyssey-app"]
+	path = Projects/Projects/WorkoutTracker/odyssey-app
+	url = https://github.com/FabioKallina/WorkoutApp
+[submodule "Projects/Projects/apple_website"]
+	path = Projects/Projects/apple_website
+	url = https://github.com/FabioKallina/3D-iPhone-Website
