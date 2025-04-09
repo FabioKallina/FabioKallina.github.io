@@ -154,11 +154,15 @@ h2 {
 }
 
 .project img {
-    width: 100%;
+    width: 90%;
     height: auto;
     border-radius: 10px;
     margin-bottom: 0.5rem;
     object-fit: cover;
+}
+
+#notes-app img {
+    height: 300px;
 }
 
 .project:hover {
