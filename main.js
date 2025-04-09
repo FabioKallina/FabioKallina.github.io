@@ -51,7 +51,7 @@ document.getElementById("weather-app").addEventListener("click", function () {
 });
 
 document.getElementById("workout").addEventListener("click", function () {
-  window.open("https://lift-2al4.onrender.com/", "_blank");
+  window.open("https://golift.onrender.com/", "_blank");
 });
 
 document.getElementById("nutrition-info").addEventListener("click", function () {
