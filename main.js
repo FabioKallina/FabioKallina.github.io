@@ -50,8 +50,16 @@ document.getElementById("weather-app").addEventListener("click", function () {
   window.open("https://xweather.onrender.com/", "_blank");
 });
 
-document.getElementById("workout").addEventListener("click", function () {
+document.getElementById("goLift-web").addEventListener("click", function () {
   window.open("https://golift.onrender.com/", "_blank");
+});
+
+document.getElementById("goLift-mobile").addEventListener("click", function () {
+  window.open("https://github.com/FabioKallina/goLift-ReactNative", "_blank");
+});
+
+document.getElementById("habit-tracker").addEventListener("click", function () {
+  window.open("https://github.com/FabioKallina/HabitTracker-ReactNative", "_blank");
 });
 
 document.getElementById("nutrition-info").addEventListener("click", function () {
