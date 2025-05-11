@@ -74,6 +74,3 @@ document.getElementById("notes-app").addEventListener("click", function () {
   window.open("https://github.com/FabioKallina/NoteTakingApp", "_blank");
 });
 
-document.getElementById("movie-website").addEventListener("click", function () {
-  window.open("https://github.com/FabioKallina/MovieWebsite-react", "_blank");
-});
