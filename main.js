@@ -71,6 +71,6 @@ document.getElementById("toDo-list").addEventListener("click", function () {
 });
 
 document.getElementById("notes-app").addEventListener("click", function () {
-  window.open("https://github.com/FabioKallina/NoteTakingApp", "_blank");
+  window.open("https://notesnest-jm3z.onrender.com/profile", "_blank");
 });
 
