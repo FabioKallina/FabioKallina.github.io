@@ -66,11 +66,7 @@ document.getElementById("nutrition-info").addEventListener("click", function () 
   window.open("Projects/NutritionalDisplay/index.html", "_blank");
 });
 
-document.getElementById("toDo-list").addEventListener("click", function () {
-  window.open("Projects/ToDoList/FrontEnd/index.html", "_blank");
-});
-
 document.getElementById("notes-app").addEventListener("click", function () {
-  window.open("https://notesnest-jm3z.onrender.com/profile", "_blank");
+  window.open("https://notesnest-jm3z.onrender.com/", "_blank");
 });
 
