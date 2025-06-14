@@ -6,7 +6,7 @@ export const Hero = () => {
       id="hero"
       className="relative min-h-screen flex flex-col items-center justify-center px-4"
       style={{
-        backgroundImage: 'url("../public/IMG_5723 copy.jpeg")',
+        backgroundImage: 'url("/IMG_5723 copy.jpeg")',
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat"
