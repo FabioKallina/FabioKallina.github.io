@@ -29,6 +29,14 @@ const projects = [
     demoUrl: "https://notesnest-jm3z.onrender.com/",
     githubUrl: "https://github.com/FabioKallina/NoteTakingApp",
   },
+  {
+    id: 4,
+    title: "Go Lift",
+    description: "Full-featured workout mobile app.",
+    image: "/projects/project4.jpeg",
+    tags: ["ReactNative", "Expo", "Vite"],
+    githubUrl: "https://github.com/FabioKallina/goLift-ReactNative",
+  },
 ];
 
 export const Projects = () => {
