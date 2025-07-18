@@ -43,6 +43,7 @@ const projects = [
     description: "Your personal AI Health Assistant.",
     image: "/projects/project5.png",
     tags: ["React", "OpenAPI", "Vite", "Node.js", "Express", "JWT", "MongoDB"],
+    demoUrl: "https://xhealthgpt.onrender.com/",
     githubUrl: "https://github.com/FabioKallina/HealthGPT",
   },
 ];
