@@ -22,6 +22,15 @@ const projects = [
   },
   {
     id: 3,
+    title: "HealthGPT",
+    description: "Your personal AI Health Assistant.",
+    image: "/projects/project5.png",
+    tags: ["React", "OpenAPI", "Vite", "Node.js", "Express", "JWT", "MongoDB"],
+    demoUrl: "https://xhealthgpt.onrender.com/",
+    githubUrl: "https://github.com/FabioKallina/HealthGPT",
+  },
+  {
+    id: 4,
     title: "Notes Nest",
     description: "Full-featured notes platform with user authentication.",
     image: "/projects/project3.png",
@@ -30,21 +39,12 @@ const projects = [
     githubUrl: "https://github.com/FabioKallina/NoteTakingApp",
   },
   {
-    id: 4,
+    id: 5,
     title: "Go Lift",
     description: "Full-featured workout mobile app.",
     image: "/projects/project4.jpeg",
     tags: ["ReactNative", "Expo", "Vite"],
     githubUrl: "https://github.com/FabioKallina/goLift-ReactNative",
-  },
-  {
-    id: 5,
-    title: "HealthGPT",
-    description: "Your personal AI Health Assistant.",
-    image: "/projects/project5.png",
-    tags: ["React", "OpenAPI", "Vite", "Node.js", "Express", "JWT", "MongoDB"],
-    demoUrl: "https://xhealthgpt.onrender.com/",
-    githubUrl: "https://github.com/FabioKallina/HealthGPT",
   },
 ];
 
