@@ -37,6 +37,14 @@ const projects = [
     tags: ["ReactNative", "Expo", "Vite"],
     githubUrl: "https://github.com/FabioKallina/goLift-ReactNative",
   },
+  {
+    id: 5,
+    title: "HealthGPT",
+    description: "Your personal AI Health Assistant.",
+    image: "/projects/project5.png",
+    tags: ["React", "OpenAPI", "Vite", "Node.js", "Express", "JWT", "MongoDB"],
+    githubUrl: "https://github.com/FabioKallina/HealthGPT",
+  },
 ];
 
 export const Projects = () => {
