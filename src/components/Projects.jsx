@@ -4,7 +4,7 @@ const projects = [
   {
     id: 1,
     title: "Health Simple",
-    description: "A simpler way of staying on top of your wellbeing",
+    description: "A simpler way of staying on top of your wellbeing.",
     image: "/projects/project1.png",
     tags: ["React", "Node.js", "Express", "JWT", "Recharts", "MongoDB"],
     demoUrl: "https://healthsimple.onrender.com/",
@@ -12,13 +12,13 @@ const projects = [
   },
   {
     id: 2,
-    title: "Weather App",
+    title: "EpiSim",
     description:
-      "A weather app to display the current weather, hourly forecasts, and 5-day forecasts for any city in the world.",
-    image: "/projects/project2.png",
-    tags: ["React", "Recharts", "OpenWeatherMap API"],
-    demoUrl: "https://xweather.onrender.com/",
-    githubUrl: "https://github.com/FabioKallina/WeatherApp",
+      "Simulate the spread of Infectious diseases using the SIRD Model.",
+    image: "/projects/episim.png",
+    tags: ["React", "Recharts", "JavaScript", "CSS", "Vite"],
+    demoUrl: "https://episim.onrender.com/",
+    githubUrl: "https://github.com/FabioKallina/EpiSim",
   },
   {
     id: 3,
@@ -31,6 +31,16 @@ const projects = [
   },
   {
     id: 4,
+    title: "Weather App",
+    description:
+      "A weather app to display the current weather, hourly forecasts, and 5-day forecasts for any city in the world.",
+    image: "/projects/project2.png",
+    tags: ["React", "Recharts", "OpenWeatherMap API"],
+    demoUrl: "https://xweather.onrender.com/",
+    githubUrl: "https://github.com/FabioKallina/WeatherApp",
+  },
+  {
+    id: 5,
     title: "Notes Nest",
     description: "Full-featured notes platform with user authentication.",
     image: "/projects/project3.png",
@@ -39,7 +49,7 @@ const projects = [
     githubUrl: "https://github.com/FabioKallina/NoteTakingApp",
   },
   {
-    id: 5,
+    id: 6,
     title: "Go Lift",
     description: "Full-featured workout mobile app.",
     image: "/projects/project4.jpeg",
